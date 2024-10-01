@@ -1,40 +1,71 @@
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
 body {
     background-color: rgb(253, 254, 255);
     display: flex;
     justify-content: center;
     align-items: center;
+    min-height: 100vh;
 }
+
 .full {
-    width: 50%;
+    width: 60%;
     max-width: 1000px;
-    min-height: 100px;
     background-color: rgb(245, 239, 231);
-    margin: 0px;
     display: grid;
-    grid-template-columns: 2fr 4fr;
+    grid-template-columns: 1fr 2fr; /* Adjusted to give better width proportion */
+    gap: 20px;
+    padding: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Added a subtle shadow */
 }
+
 .left {
-    position: initial;
     background-color: rgb(126, 219, 231);
     padding: 20px;
- 
+    border-radius: 10px; /* Added some rounding for smoother edges */
 }
+
 .right {
-    position: initial;
     background-color: rgb(162, 202, 206);
     padding: 20px;
- 
+    border-radius: 10px; /* Same rounding for consistency */
 }
+
 .image, .Contact, .Skills, .Language, .Hobbies, .title, 
 .Summary, .Experience, .Education, .project {
     margin-bottom: 30px;
 }
-.h2 {
+
+h2 {
     background-color: rgb(4, 96, 150);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #000;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+h1, h2, p, li {
+    word-wrap: break-word;
+}
+
+li {
+    list-style-type: disc;
+    margin-left: 20px;
 }
