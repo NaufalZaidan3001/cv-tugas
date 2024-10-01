@@ -25,25 +25,18 @@
             <div class="Contact">
                 <h2>Contact</h2>
                 <p>
-                      <b>Email id:</b>xyz@gmail.com
-                  </p>
-                <p>
-                      <b>Mobile no :</b>1234567890
+                      <b>Email:</b>muhammadnaufal3001@mhs.unisbank.ac.id
                   </p>
             </div>
             <div class="Skills">
                 <h2>Skills</h2>
                 <ul>
                     <li>
-                          <b>Programming Languages :
-                            Python, Java, C++</b>
+                          <b>Hard Skill :
+                            Computer Maintenance, Analysis, Networking</b>
                       </li>
                     <li>
-                          <b>Frontend : HTML5, CSS3,
-                            JavaScript, React</b>
-                      </li>
-                    <li>
-                          <b>Backend : Node.js</b>
+                          <b>Soft Skill : English
                       </li>
                 </ul>
             </div>
@@ -51,96 +44,75 @@
                 <h2>Language</h2>
                 <ul>
                     <li>English</li>
-                    <li>Hindi</li>
+                    <li>Indonesia</li>
+                    <li>Javanese</li>
                 </ul>
             </div>
             <div class="Hobbies">
                 <h2>Hobbies</h2>
                 <ul>
-                    <li>Playing cricket</li>
-                    <li>Swimming</li>
+                    <li>Playing video game</li>
+                    <li>Reading comic</li>
                 </ul>
             </div>
         </div>
         <div class="right">
             <div class="name">
-                <h1>GeeksforGeeks</h1>
+                <h1>Muhammad Naufal Zaidan</h1>
             </div>
             <div class="title">
-                <p>Web Developer</p>
+                <p>IT Support</p>
             </div>
             <div class="Summary">
                 <h2>Summary</h2>
                 <p>
-                      To secure a challenging position in a
-                    reputable organization
-                    to expand my learning knowledge and skill
+                      Experienced with computer troubleshooting and maintenance also networking
                 </p>
             </div>
             <div class="Experience">
                 <h2>Experience</h2>
-                <h3>Abc webdev pvt ltd - Senior Web Developer</h3>
-                <p>January 2022 to Present</p>
+                <h3>YPI Al Khoiriyyah Semarang - IT Support</h3>
+                <p>February 2022 to July 2024</p>
                 <ul>
                     <li>
-                        Actively engaged in web creative
-                        design and development.
+                        Creating and planning network cable placement
                       </li>
                     <li>
-                        Designing project & planning
+                        Installing network cable from central source into classes
+                      </li>
+                    <li>
+                        Maintaining school computer lab equipment
                       </li>
                 </ul>
-                <h3>Xyz webdev pvt ltd - junior web developer</h3>
-                <p>August 2021 to December 2021</p>
+                <h3>PT. Iksa Media Indonesia - On The Job Training</h3>
+                <p>2020</p>
                 <ul>
                     <li>
-                          Actively engaged in web creative
-                        design and development.
+                          Inputting user data into instance database.
                       </li>
-                    <li>Designing project & planning</li>
-                    <li>Working on designing</li>
+                    <li>Checking and maintaining network device</li>
                 </ul>
             </div>
             <div class="Education">
                 <h2>Education</h2>
                 <table>
                     <tr>
-                        <th>University/college  </th>
+                        <th>School/University  </th>
                         <th>Passing year  </th>
-                        <th>percentage/cgpa</th>
+                        <th>score</th>
                     </tr>
                     <tr>
-                        <td>xyz</td>
-                        <td>2020</td>
-                        <td>8.9</td>
+                        <td>Unisbank Semarang</td>
+                        <td>-</td>
+                        <td>-</td>
                     </tr>
                     <tr>
-                        <td>pqr</td>
-                        <td>2018</td>
-                        <td>89%</td>
+                        <td>SMK Negeri 7 Semarang</td>
+                        <td>2021</td>
+                        <td>88</td>
                     </tr>
                 </table>
             </div>
-            <div class="project">
-                <ul>
-                    <li>
-                        <h2>Project1</h2>
-                        <p>
-                              This project is based on html
-                            & used React
-                          </p>
-                    </li>
-                    <li>
-                        <h2>Project2</h2>
-                        <p>
-                              This project is based on html
-                            & used React
-                          </p>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
 </body>
  
 </html>
