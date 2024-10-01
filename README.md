@@ -11,7 +11,7 @@
     <div class="full">
         <div class="left">
             <div class="image">
-                <img src="https://github.com/NaufalZaidan3001/cv-tugas/raw/main/foto.jpg"
+                <img src="https://github.com/NaufalZaidan3001/cv-tugas/raw/main/Foto.jpg"
                      alt="My Photo"
                      style="width:100px; height:100px;">
             </div>
