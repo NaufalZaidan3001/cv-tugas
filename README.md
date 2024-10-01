@@ -17,8 +17,8 @@
         <div class="left">
             <div class="image">
                 <img src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20220202083519/gfglogo.png"
-                     alt="gfg-logo"
+"![Foto Pas](https://github.com/NaufalZaidan3001/repo/blob/main/foto.jpg)"
+                     alt="My Photo"
                      style="width:100px;
                             height:100px;">
             </div>
