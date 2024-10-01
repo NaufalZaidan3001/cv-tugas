@@ -16,11 +16,10 @@
     <div class="full">
         <div class="left">
             <div class="image">
-                <img src=
-"![Foto Pas](https://github.com/NaufalZaidan3001/repo/blob/main/foto.jpg)"
-                     alt="My Photo"
-                     style="width:100px;
-                            height:100px;">
+                <img src="https://github.com/NaufalZaidan3001/cv-tugas/main/foto.jpg"
+     alt="My Photo"
+     style="width:100px; 
+            height:100px;">
             </div>
             <div class="Contact">
                 <h2>Contact</h2>
