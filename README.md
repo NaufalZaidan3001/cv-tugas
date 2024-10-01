@@ -65,7 +65,7 @@
                 <h3>PT. Iksa Media Indonesia - On The Job Training</h3>
                 <p>2020</p>
                 <ul>
-                    <li>Inputting user data into the instance database.</li>
+                    <li>Inputting user data into instance database.</li>
                     <li>Checking and maintaining network devices.</li>
                 </ul>
             </div>
